@@ -57,6 +57,9 @@ font-weight: 400px;
 }
 
 .apresentacao__links__link{
+    display: flex;
+    justify-content: center;
+    gap: 16px;
     text-align: center;
     font-size: 24px;
     background-color: #000000;
@@ -68,5 +71,12 @@ font-weight: 400px;
     border: 2px solid #22D4FD;
     font-weight: 600;
     font-family: 'Montserrat', sans-serif;
+    
+    
+}
+
+.apresentacao__links__link:hover{
+
+    background-color: #272727;
     
 }
