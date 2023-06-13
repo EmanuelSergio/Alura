@@ -1,0 +1,49 @@
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.cabecalho{
+
+    padding: 2% 0 0 15%;
+    
+
+}
+
+.cabecalho__menu{
+    display: flex;
+    gap: 80px;
+    
+}
+
+.cabecalho__menu__link{
+    text-decoration: none;
+}
+
+body{
+    box-sizing: border-box;
+    background-color: black;
+    color: white;
+}
+
+.apresentacao{
+    padding: 5% 15%;
+    display: flex;
+    text-align: center;
+    justify-content: space-between;
+
+}
+
+.apresentacao__conteudo{
+    width: 615px;
+    display: flex;
+    flex-direction: column;
+    gap: 40px;
+}
+
+.rodape{
+    background-color: aqua;
+    text-align: center;
+}
+
