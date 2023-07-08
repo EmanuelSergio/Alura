@@ -117,5 +117,19 @@ margin: 0 10em;
 .descricao__texto{
 
 color: var(--cinza-secundario);
+margin-top: 1em;
+
+}
+
+.secundario__botao{
+
+    display: inline-block;
+    margin-top: 1em;
+
+}
+
+.container__descricao{
+
+padding: 2em;
 
 }
